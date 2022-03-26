@@ -1,6 +1,6 @@
 # Currency Convertor
 
-A simple CLI-based currency convertor.
+A simple CLI-based currency convertor using the <a href="https://www.currencyconverterapi.com/">Currency Convertor API</a>.
 
 To view all the countries and their corresponding currencies, run the following command:
 
